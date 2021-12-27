@@ -3,7 +3,7 @@
 * NIS-8016 Lab A
 
 * code:
-    * Recv.grc/py: Receive signals and match with ASK button using HackRF and GNU radio
+    * Recv.grc/py: Receive signals and match with ASK button using HackRF and GNU radio. I use AM demod block(can also instrumented using math blocks) and manually set the threshold to transfer the analogue signal to digital signal. 
     * Send.grc/py: Send signals using vector source deocded manually
     * Decode.grc/py: Decode signals following ASK/OOK coding rules
 
