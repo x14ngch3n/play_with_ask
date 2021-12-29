@@ -15,3 +15,5 @@
 
 * [video](https://jbox.sjtu.edu.cn/l/V10NC2):
     * demo.mp4: show how I work on with these scripts and data 
+    * send.mp4: show how I use HackRF to send ASK/OOK signals and then received by Arduino
+    * recv.mp4: show how I use HackRF to receive ASK/OOK signals send by Arduin
